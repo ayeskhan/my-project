@@ -1,3 +1,5 @@
+# WORDS PER MINUTE PYTHON
+
 import curses
 from curses import wrapper
 import time
